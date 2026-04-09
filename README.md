@@ -15,3 +15,7 @@ https://panda.szhshp.org/
 https://editghost.xyz/
 
 # 📚 优质教程/博客
+
+# 论坛
+1.v2ex
+https://www.v2ex.com/
