@@ -5,7 +5,8 @@ good website （e.g.  ai）
 https://clawhomepage.com/zh/
 
 2. AI 模型订阅
-https://gppshop.top/
+（1）https://gppshop.top/
+（2）https://bewild.ai/subscribe
 
 # 🛠️ 实用工具
 1.熊猫视频自动化引擎
