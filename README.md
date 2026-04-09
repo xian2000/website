@@ -14,6 +14,9 @@ https://panda.szhshp.org/
 2.在线擦除（P图）
 https://editghost.xyz/
 
+3.github readme
+https://readme.u14.app/
+
 # 📚 优质教程/博客
 
 # 论坛
@@ -23,13 +26,13 @@ https://www.v2ex.com/
 2.2libra
 https://2libra.com/
 
-3. X
+3.X
 https://x.com/
 
-4. nodeseek
+4.nodeseek
 https://www.nodeseek.com/
 
-5. reddit
+5.reddit
 https://www.reddit.com/
 
 6.nga、hupu、小黑盒、Telegram
