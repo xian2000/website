@@ -19,3 +19,17 @@ https://editghost.xyz/
 # 论坛
 1.v2ex
 https://www.v2ex.com/
+
+2.2libra
+https://2libra.com/
+
+3. X
+https://x.com/
+
+4. nodeseek
+https://www.nodeseek.com/
+
+5. reddit
+https://www.reddit.com/
+
+6.nga、hupu、小黑盒、Telegram
