@@ -20,9 +20,7 @@ https://readme.u14.app/
 4.巧用手机会员畅享大屏巨幕，彻底告别高昂电视VIP！
 https://www.vonchange.com/
 
-# 📚 优质教程/博客
-
-# 论坛
+# 📚 优质教程/论坛
 1.v2ex
 https://www.v2ex.com/
 
