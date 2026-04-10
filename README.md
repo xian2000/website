@@ -7,6 +7,7 @@ https://clawhomepage.com/zh/
 2. AI 模型订阅
 （1）https://gppshop.top/
 （2）https://bewild.ai/subscribe
+（3）https://zenmux.ai/
 
 # 🛠️ 实用工具
 1.熊猫视频自动化引擎
