@@ -9,6 +9,9 @@ https://clawhomepage.com/zh/
 （2）https://bewild.ai/subscribe
 （3）https://zenmux.ai/
 
+3. AI实时排名
+https://aistupidlevel.info/
+
 # 🛠️ 实用工具
 1.熊猫视频自动化引擎
 https://panda.szhshp.org/
