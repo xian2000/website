@@ -8,8 +8,8 @@ https://clawhomepage.com/zh/
 （1）https://gppshop.top/
 （2）https://bewild.ai/subscribe
 （3）https://zenmux.ai/
-（4）https://pay.ldxp.cn/shop/282D9KDL （无质保）
-（5）https://pay.ldxp.cn/item/7ho9w0（有质保）
+（4）https://pay.ldxp.cn/shop/282D9KDL   （无质保）
+（5）https://pay.ldxp.cn/item/7ho9w0   （有质保）
 （6）https://pay.ldxp.cn/shop/JVDCG8IG
 
 4. AI实时排名
