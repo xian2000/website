@@ -53,4 +53,9 @@ https://www.reddit.com/
 
 #😈 vpn、代理、静态ip
 1.https://qq.pw/
-2.
+2.www.expressvpn.com
+3.www.nordvpn.com（连不上）
+4.bwh88.net
+5.[1.1.1.1](https://one.one.one.one/)
+
+
