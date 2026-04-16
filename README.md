@@ -54,9 +54,20 @@ https://www.reddit.com/
 #😈 vpn、代理、静态ip
 1.https://qq.pw/
 2.www.expressvpn.com
-3.www.nordvpn.com（连不上）
+3.www.nordvpn.com  （连不上）
 4.bwh88.net
 5.[1.1.1.1](https://one.one.one.one/)
+购买后的配置建议
+作为 Go 开发者，拿到服务后，建议你在本地终端（尤其是处理 FermatAgent 时）配合 Clash Verge 或 sing-box 使用。
+
+特别提醒：
+
+首选镜像站：在大陆直接访问上述 .com 域名可能会超时，请尝试在手机上开启临时漫游流量或寻找其官方镜像地址（如搬瓦工的 .net 域名）。
+
+防止扣费陷阱：这类服务通常默认开启“自动续费”。如果你只是短期使用，购买后记得在后台关闭 Auto-Renewal。
+
+内网分流：配置时务必将你的公司内网地址（如 *.huawei.com）加入绕过列表，否则会导致公司内部 MLOps 接口因走海外节点而无法访问。
+
 
 
 
