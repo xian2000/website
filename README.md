@@ -11,7 +11,8 @@ https://clawhomepage.com/zh/
 （4）https://pay.ldxp.cn/shop/282D9KDL   （无质保）
 （5）https://pay.ldxp.cn/item/7ho9w0   （有质保）
 （6）https://pay.ldxp.cn/shop/JVDCG8IG
-
+（7）https://www.nodebits.xyz/(订阅大全）
+（8）https://nikoers.com/ （有gemini 便宜、好像还有vpn）
 4. AI实时排名
 https://aistupidlevel.info/
 
@@ -49,5 +50,6 @@ https://www.reddit.com/
 
 6.nga、hupu、小黑盒、Telegram
 
-#😈 代理/静态ip
+#😈 vpn、代理、静态ip
 1.https://qq.pw/
+2.
