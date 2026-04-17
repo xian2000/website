@@ -13,6 +13,11 @@ https://clawhomepage.com/zh/
 （6）https://pay.ldxp.cn/shop/JVDCG8IG
 （7）https://www.nodebits.xyz/(订阅大全）
 （8）https://nikoers.com/ （有gemini 便宜、好像还有vpn）
+（9）https://ferrigpt.asia/
+https://shop.86gamestore.com/
+https://shop.nitro.xin/
+https://makerich.club/
+（gpt，很便宜 来源：https://www.v2ex.com/t/1206503#reply85）
 
 4. AI实时排名
 https://aistupidlevel.info/
